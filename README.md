@@ -1,16 +1,15 @@
 # Welcome to the home of CARTMAN and other computational marvels
 
 ### Copyright (c) Payam Saisan, 2024
-### CARTMAN is released under [MIT License](https://github.com/psaisan/psaisan.github.io/blob/main/LICENSE)
+### CARTMAN is released under [MIT License](https://github.com/psaisan/CARTMAN/blob/main/LICENSE)   [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/psaisan/CARTMAN/blob/main/LICENSE)
+
 
 
 ## Citation   
 
 If you use CARTMAN in your work, please reference it as follows:
 
-Saisan, P., & Glass, C. (2024). CARTMAN: Co-occurrence analysis of repeating transcription-factor motifs and networks (Version 0.1) [Computer software]. GitHub. https://github.com/psaisan/CARTMAN
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13863034.svg)]()
+Saisan, P., & Glass, C. (2024). CARTMAN: Co-occurrence analysis of repeating transcription-factor motifs and networks (Version 0.1) [Computer software]. GitHub. https://github.com/psaisan/CARTMAN [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13863034.svg)]()
 
 ## **[CARTMAN](https://github.com/psaisan/CARTMAN)**  (Co-occurrence Analysis of Repeating Transcription-factor Motifs And Networks)
 .
