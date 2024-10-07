@@ -1,7 +1,7 @@
 # Welcome to home of CARTMAN and other computational marvels
 
 ### Copyright (c) Payam Saisan, 2024
-### CARTMAN is released under MIT licensing [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://github.com/psaisan/psaisan.github.io/blob/main/LICENSE](https://github.com/psaisan/CARTMAN/blob/main/LICENSE))
+### CARTMAN is released under [MIT License](https://github.com/psaisan/psaisan.github.io/blob/main/LICENSE)
 
 
 ## Citation   
