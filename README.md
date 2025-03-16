@@ -1,10 +1,10 @@
 Welcome to the home of CARTMAN and other Computational Musings
 
 # About Me:
-I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI and computational tools to precision medicine and cancer. My background is in applied math and theoretical ML, but my mission is to help engineer the cure for solid tumors, the final frontier. 
+I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI and computational tools to precision medicine and cancer. My background is in applied math and theoretical ML, but my current mission is transformative advances toward solving cancer.
 
 
-# Mathematical Immunology: Bridging Mathematics/AI & Biology:
+# Mathematical Immunology, Bridging AI & Biology:
 My current work focuses on the immune system, possibly the most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent  complexity and success of our immune system. I develop predictive and generative models at the genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. There is growing evidence that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program our immune cells or cancer cells themselves to stop the solid tumor progression? or alternatively control cancer cells' regulatory programs to steer them away from immune evasive states?
 
 
