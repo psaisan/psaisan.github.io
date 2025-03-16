@@ -60,7 +60,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
   </tr>
 
  <tr>
-    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Cancer_Math.PNG" width="200"></td>
+    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
       <strong>📊  TRANSFORMERS from a Mathematician's Lens: </strong>  <br>
       Are you having trouble understanding Transformers. If all you need is Attention, what are Keys, Queries and Values about?<br>
