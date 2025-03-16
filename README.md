@@ -1,17 +1,15 @@
 ## From equations to cells: engineering cures 
 
 # About Me:
-I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI and computational tools to precision medicine and cancer. My background is in applied math and theoretical ML, but my current mission is transformative advances toward solving cancer.
+I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI and computational tools to precision medicine and cancer. My formal background is in applied math and theoretical machine learning, but my mission is unlocking therapeutic pathways in medicine, NOT incremental steps for creating basic science, but looking within a very narrow band of basic to translational interface for leaps toward a cure.
 
 
 # Mathematical Immunology, Bridging AI & Biology:
-My current work focuses on the immune system, possibly the most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent  complexity and success of our immune system. I develop predictive and generative models at the genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. There is growing evidence that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program our immune cells or cancer cells themselves to stop the solid tumor progression? or alternatively control cancer cells' regulatory programs to steer them away from immune evasive states?
+My current work focuses on the immune system, possibly the most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent functional complexity and success of our immune system. I develop predictive and generative models at genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. There is growing evidence that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program either the source code or steer the program into states to modulate the immune system and/or the tumor microenvironments to stop solid tumor progressions? These are the questions I'm trying to help biologists solve in an interdisciplinary collaborative battle against cancer.
 
+On the computational front, a current priority is uncovering the mathematical underpinnings of the Transformer model needed for its adaptation to genomic data. Genomic language does not conform neatly to the assumptions underlying natural languages. I am working to bridge this gap to uncover the structural properties inherent to the space of genomic sequence.
 
-
-On the computational front, my current priority is uncovering the mathematical underpinnings of the Transformer architecture needed for its adaptation to genomic data. Genomic language does not conform neatly to the assumptions underlying natural languages. We are working to bridge this gap to uncover the structural properties inherent to the space of genomic sequences.
-
-I work on accelerating pathways for mathematicians and engineers into bioinformatics and computational biology, while helping biologists gain formal computational fluency, including AI-assisted programming.
+Cancer will take interdisciplinary team work to solve. I am working on creating accelerated pathways for mathematicians and engineers to transition into computational biology, while helping biologists gain formal computational fluencies, including use of AI-assisted programming.
 
 # Let's Collaborate:
 If you're working on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers.
