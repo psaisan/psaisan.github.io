@@ -1,10 +1,11 @@
 Welcome to the home of CARTMAN and other Computational Musings
 
 # About Me:
-I work on machine learning (ML) applications in computational biology and bioengineering, with a singular focus: adapting emerging AI and computational tools to medicine and cancer research. My background is in applied math and theoretical ML, but my mission is in leveraging them to help engineer the cure.
+I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI and computational tools to precision medicine and cancer. My background is in applied math and theoretical ML, but my mission is to help engineer the cure for solid tumors, the final frontier. 
+
 
 # Bridging Mathematics/AI & Biology:
-My current work focuses on the immune system, possibly the most promising frontier in medicine (and future of engineering). Each immune cell acts as a programmable molecular dynamical system, that working collectively give rise to the remarkable functional complexity and success of our immune system. I develop predictive and generative models at the cellular and genomic levels, aiming to decipher the genomic programming language that governs this system.
+My current work focuses on the immune system, possibly the most promising frontier in medicine. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the remarkable functional complexity and success of our immune system. I develop predictive and generative models at the cellular and genomic levels, aiming to decipher the genomic programming language that governs this system. Solution to cancer will be a modification in the code for transcriptional programs running in our immune cells. 
 
 On the computational front, my current priority is uncovering the mathematical underpinnings of the Transformer architecture needed for its adaptation to genomic data. Genomic language does not conform neatly to the assumptions underlying natural languages. We are working to bridge this gap to uncover the structural properties inherent to the space of genomic sequences.
 
