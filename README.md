@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer. While my formal background is in applied math and theoretical machine learning, my mission is engaging cancer, solid tumors in particular. 
+I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer. While my formal background is in applied math and theoretical machine learning, my mission is engaging cancer. 
 
 I seek and focus on precise translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer breakthrough therapies. My work takes place at the intersection of mechanistic discovery and actionable intervention, aiming for leaps toward a cure.
 
