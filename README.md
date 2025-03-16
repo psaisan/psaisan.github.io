@@ -1,3 +1,6 @@
+
+![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
+
 # From Deciphering the Immune System's Hidden Arsenal to Engineering Cancer's Defeat
 
 ## About Me:
@@ -35,7 +38,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
  <tr>
     <td width="120"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Cancer_Math.PNG" width="100"></td>
     <td>
-      <strong>🔥 TRANSFORMERS from a Mathematician's Lens: </strong>  <br>
+      <strong>📊  TRANSFORMERS from a Mathematician's Lens: </strong>  <br>
       Are you having trouble understanding Transformers. If all you need is Attention, what are Keys, Queries and Values about?<br>
       COMING SOON!
     </td>
@@ -60,7 +63,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
   <tr>
     <td><img src="https://raw.githubusercontent.com/psaisan/PEAKDIFF/main/Images/anatomyScatter.PNG" width="100"></td>    
     <td>
-      <strong>🏹 PEAKDIFF</strong>  
+      <strong>🔥 PEAKDIFF</strong>  
       <i>Differential peak analysis for identifying distinct genomic regions between experimental conditions.</i><br>
       Includes integration with **ChIP-seq, ATAC-seq**, and **HOMER-based enhancer prediction**.  
       🔗 <a href="https://github.com/psaisan/PEAKDIFF">GitHub Repository</a>
@@ -70,13 +73,13 @@ Below are a sample of tools and programs to guide you into the brand of computat
 
 ---
 
-## 🧪 Advanced Transcriptomics & Spatial Omics  
+## ⚙️ Advanced Transcriptomics & Spatial Omics  
 
 <table>
   <tr>
-    <td width="120"><img src="https://raw.githubusercontent.com/psaisan/SPATIOME/main/Images/spatial_umap.PNG" width="100"></td> 
+    <td width="120"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/snail.png" width="100"></td> 
     <td>
-      <strong>🌎 SPATIOME</strong>  
+      <strong>🔥 SPATIOME</strong>  
       <i>Synthetic Platform for Advanced Transcriptomics Integrating Omics and Multidimensional Exploration.</i><br>
       Computational framework for integrating high-dimensional transcriptomics data.  
       🔗 <a href="https://github.com/psaisan/SPATIOME">GitHub Repository</a>
