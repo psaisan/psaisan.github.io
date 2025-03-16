@@ -1,4 +1,4 @@
-Welcome to the home of CARTMAN and other Computational Musings
+## From equations to cells: engineering cures 
 
 # About Me:
 I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI and computational tools to precision medicine and cancer. My background is in applied math and theoretical ML, but my current mission is transformative advances toward solving cancer.
