@@ -55,9 +55,6 @@ Below are a sample of tools and programs to guide you into the brand of computat
       <i>Co-occurrence Analysis of Repeating Transcription-factor Motifs and Networks.</i><br>
       A computational tool for motif discovery and transcription factor co-occurrence analysis in regulatory genomics.  
       🔗 <a href="https://github.com/psaisan/CARTMAN">GitHub Repository</a>
-     <i>  </i>CARTMAN is released under  [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/psaisan/CARTMAN/blob/main/LICENSE)  <\i>
-
-
     </td>
   </tr>
   <tr>
