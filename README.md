@@ -1,8 +1,6 @@
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
-# From Deciphering the Immune System's Hidden Arsenal to Engineering Cancer's Defeat
-
 ## About Me:
 
 I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer. While my formal background is in applied math and theoretical machine learning, my mission is engaging cancer. 
