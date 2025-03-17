@@ -1,22 +1,21 @@
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
-## About Me:
+## About:
 
-I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer. While my formal background is in applied math and theoretical machine learning, my mission is engaging cancer. 
+I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer. My formal background is in applied math and theoretical machine learning, but my mission is in engaging cancer. 
 
-I seek and focus on precise translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer breakthrough therapies. My work takes place at the intersection of mechanistic discovery and actionable intervention, aiming for leaps toward a cure.
+I seek problems that focus on precise translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer game changing breakthroughs. My work takes place at the intersection of scientific discovery and actionable intervention for patients. This is where I look for leaps toward a cure. 
 
-## Mathematical Immunology, Bridging AI & Biology:
-My current work focuses on the immune system, possibly the most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent functional complexity and success of our immune system. I develop predictive and generative models at genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. There is growing evidence that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program the cells either at the source code level or steer their programs into states to modulate the immune system and/or the tumor microenvironments to stop solid tumor progressions? These are the questions I'm trying to help biologists solve in an interdisciplinary collaborative battle against cancer.
+## Mathematical Immunology, Bridging AI & Biology: I see the immune system as the key and most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent functional complexity and success of our immune system. I develop predictive and generative models at genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. There is growing evidence that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program our cells  or steer their states to modulate the immune system and/or the tumor microenvironments to stop solid tumor progressions? These are the questions that drive my work.
 
-On the computational front, a current priority is uncovering the mathematical underpinnings of the Transformer models needed for their adaptation to genomic data. Genomic language does not conform neatly to the assumptions underlying natural languages that Transformers were designed for. I am working to bridge this gap to uncover the structural properties inherent to genomic sequences towards shifting the Transformer paradigm for building the next generation of predictive models in functional genomics.
+On a more abstract computational front, a current priority is uncovering the mathematical underpinnings of the Transformer models needed for their adaptation to genomic data. Genomic language does not conform neatly to the assumptions underlying natural languages that Transformers were designed for. I am working to bridge this gap to uncover the structural properties inherent to genomic sequences towards shifting the Transformer paradigm for building better predictive ML models in biology.
 
 Cancer requires interdisciplinary team work. To that end, I work on creating accelerated pathways for mathematicians and engineers to transition into computational biology, while helping biologists gain formal computational fluencies, including strategic and guided proliferation of AI-assisted programming.
 
 ## Let's Collaborate:
 If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. 
 
-Below are a sample of tools and programs to guide you into the brand of computational biology problems I'm working on. Completed tools are free to use under academic licensing to in any way you can to make progress in your work. May the force be with you!
+Below are a sample of tools and programs to guide you into the brand of computational biology problems I'm working on. Completed tools on GitHub are free to use under academic licensing to in any way you can to make progress in your work. May the force be with you!
 
 
 ---
