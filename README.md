@@ -1,3 +1,8 @@
+MIT License  
+
+(c) To all the cancer patients at the front lines of this battle, and to their courage and love that fuel this and countless others fighting to defeat cancer.
+
+
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
 ## About:
