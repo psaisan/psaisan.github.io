@@ -13,7 +13,7 @@ I seek problems that focus on precise translational inflection points, where fun
 ## Mathematical Immunology, Bridging AI & Biology: 
 I see the immune system as the key and most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent functional complexity and success of our immune system. I develop predictive and generative models at genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. Growing evidence suggests that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program our cells  or steer their states to modulate the immune system and/or the tumor microenvironments to stop solid tumor progressions? These are the questions that drive my work.
 
-On the more abstract computational front, a current priority is uncovering the mathematical underpinnings of the Transformer models needed for their adaptation to genomic data. Genomic language does not conform neatly to the assumptions underlying natural languages that Transformers were designed for. I am working to bridge this gap to uncover the structural properties inherent to genomic sequences towards shifting the Transformer paradigm for building better predictive ML models in biology.
+On a more theoretical front, a current priority is uncovering the mathematical underpinnings of the Transformer models needed for their adaptation to genomic data. I am working toward modiying the Transformer paradimg for building better predictive ML models in biology.
 
 Cancer requires interdisciplinary team work. To that end, I work on creating accelerated pathways for mathematicians and engineers to transition into computational biology, while helping biologists gain formal computational fluencies, including strategic and guided proliferation of AI-assisted programming.
 
@@ -67,7 +67,6 @@ Below are a sample of tools and programs to guide you into the brand of computat
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
       <strong>📊  TRANSFORMERS from a Mathematician's Lens: </strong>  <br>
-      Are you having trouble understanding Transformers. If all you need is Attention, what are Keys, Queries and Values about?<br>
       COMING SOON!
     </td>
   </tr>
