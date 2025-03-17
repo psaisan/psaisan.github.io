@@ -97,4 +97,4 @@ Below are a sample of tools and programs to guide you into the brand of computat
 ## 🚀 Kaggle AI Competitions in Biology : COMING SOON!
 
 
-### Copyright (c) Payam Saisan, 2024
+### Copyright (c) P. Saisan, 2024
