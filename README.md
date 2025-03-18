@@ -20,7 +20,7 @@ Cancer requires interdisciplinary team work. To that end, I work on creating acc
 ## Let's Collaborate:
 If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. 
 
-Below are a sample of tools and programs to guide you into the brand of computational biology problems I'm working on. Completed tools on GitHub are free to use under academic licensing to in any way you can to make progress in your work. May the force be with you!
+Below are a sample of tools and programs to guide you into the brand of computational biology problems I'm working on. Completed tools on GitHub are free to use under academic licensing, in any way you can,  to make progress in your work. May the force be with you!
 
 ---
 
