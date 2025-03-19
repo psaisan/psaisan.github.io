@@ -120,7 +120,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
   <tr>
     <td align="center">
       Kaggle is a Google LLC platform
-    </td>
+
   </tr>        
 </table>
 
