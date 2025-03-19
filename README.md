@@ -110,20 +110,19 @@ Below are a sample of tools and programs to guide you into the brand of computat
 
 
 <table width="100%" style="background-color: transparent;">
- 
   <tr>
- <td align="center" style="background-color: white !important;">
+    <td align="center" style="background-color: white !important;">
       <a href="https://www.kaggle.com/competitions/open-problems-single-cell-perturbations" target="_blank">
-       <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_SC.PNG" width="75%">
+        <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_SC.PNG" width="75%">
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       Kaggle is a Google LLC platform
-   </td>
+    </td>
   </tr>        
 </table>
-
 
 
 
