@@ -91,7 +91,22 @@ Below are a sample of tools and programs to guide you into the brand of computat
 
 ---
 
-## 🚀 Kaggle AI Competitions in Biology : COMING SOON!
+## 🚀 Kaggle AI Competitions in Biology: It's the DATA St**id
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_BELKA.png" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🔥 BELKA</strong><br>
+      <i>Synthetic Platform for Advanced Transcriptomics Integrating Omics and Multidimensional Exploration.</i><br>
+      Computational framework for integrating high-dimensional transcriptomics data.<br>
+      🔗 <a href="https://github.com/psaisan/SPATIOME">GitHub Repository</a>
+    </td>
+  </tr>
+</table>
 
 
 ### Copyright (c) P. Saisan, 2024
