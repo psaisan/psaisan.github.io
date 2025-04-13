@@ -46,6 +46,16 @@ Below are a sample of tools and programs to guide you into the brand of computat
       🔗 <a href="https://github.com/psaisan/PEAKDIFF">GitHub Repository</a>
     </td>
   </tr>
+  <tr>
+    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/PIPSCOUT/main/images/pipscout.PNG" width="200"></td>    
+    <td>
+      <strong>🔥 PIPSCOUT </strong>  
+       <i>PIPseeker-based Single-Cell Output & UMAP Typing </i><br>
+      A tool for deciphering <a href="https://pipseeker.readthedocs.io"> PIPseeker's</a> single-cell outputs for downstream analytical pipelines. <br>
+      🔗 <a href="https://github.com/psaisan/PIPSCOUT">GitHub Repository</a>
+    </td>
+  </tr>
+  
 </table>
 
 ---
