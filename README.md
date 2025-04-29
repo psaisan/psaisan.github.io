@@ -104,25 +104,26 @@ Below are a sample of tools and programs to guide you into the brand of computat
 
 
 ## 🚀 Kaggle AI Competitions in Biology With Interesting DATA: 
-
-<table width="100%" style="background-color: transparent;">
+<table width="100%" style="background-color: transparent; border-collapse: collapse;">
   <tr>
-    <td align="center" style="background-color: white !important;">
-      <a href="https://www.kaggle.com/competitions/open-problems-multimodal" target="_blank">
-        <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_SC1.PNG" width="75%">
+    <td align="center" style="background-color: white;">
+      <a href="https://www.kaggle.com/competitions/open-problems-multimodal" target="_blank" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_SC1.PNG" width="75%" alt="Open Problems Multimodal">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target="_blank">
+    <td align="center" style="background-color: transparent;">
+      <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle1_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;">
         </a>
-        Private LB: Silver
+        <br>
+        <span style="color: black; font-weight: bold;">Private LB: Silver</span>
       
     </td>
-  </tr>        
+  </tr>
 </table>
+
 
 
 
