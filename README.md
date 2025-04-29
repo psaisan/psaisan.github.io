@@ -115,10 +115,38 @@ Below are a sample of tools and programs to guide you into the brand of computat
   </tr>
   <tr>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle1_Silver.png" alt="Private LB Standings" style="vertical-align: middle; height: 30px; margin-right: 8px;">
+      Standing: Silver Medal, Private LB
+    </td>
+  </tr>        
+</table>
+
+
+
+
+
+<table width="100%" style="background-color: transparent;">
+  <tr>
+    <td align="center" style="background-color: white !important;">
+      <a href="https://www.kaggle.com/competitions/open-problems-single-cell-perturbations" target="_blank">
+        <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_SC.PNG" width="75%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+
       Kaggle is a Google LLC platform
     </td>
   </tr>        
 </table>
+
+
+
+
+
+
+
 
 <table width="100%" style="background-color: transparent;">
   <tr>
