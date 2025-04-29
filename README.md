@@ -5,7 +5,7 @@ MIT License Addendum:
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
-## About:
+## About Me:
 I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer and nuero-degeneration. My formal background is in applied math and theoretical machine learning, but my mission is in engaging cancer. 
 
 I seek problems that focus on precise translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer game changing breakthroughs. This is where I look for leaps toward a cure, at the intersection of scientific discovery and actionable intervention for patients.  
