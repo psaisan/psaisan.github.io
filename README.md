@@ -135,6 +135,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
   </tr>
   <tr>
     <td align="center">
+      <a href="https://www.kaggle.com/competitions/leash-BELKA/leaderboard?tab=public" target="_blank">
            <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle2_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;"> Public LB: Silver
     </td>
   </tr>
