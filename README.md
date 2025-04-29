@@ -31,21 +31,6 @@ Below are a sample of tools and programs to guide you into the brand of computat
   <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/CARTMAN/main/Images/pipeline0.2.PNG" width="200"></td>
     <td>
-<table width="100%" style="background-color: transparent;">
-  <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/competitions/leash-BELKA" target="_blank">
-        <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_BELKA.PNG" width="75%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/competitions/leash-BELKA/leaderboard?tab=public" target="_blank">
-           <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle2_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;"> Public LB: Silver
-    </td>
-  </tr>
-</table>
       <strong>🔥 CARTMAN</strong>  
       <i>Co-occurrence Analysis of Repeating Transcription-factor Motifs and Networks.</i><br>
       A computational tool for motif discovery and transcription factor co-occurrence analysis in regulatory genomics.  <br> 
@@ -130,10 +115,8 @@ Below are a sample of tools and programs to guide you into the brand of computat
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target="_blank">
-        <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle1_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;">
-        Private LB: Silver
-      </a>
+      <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target=_blank">
+      <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle1_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;"> Private LB: Silver
     </td>
   </tr>        
 </table>
@@ -152,13 +135,10 @@ Below are a sample of tools and programs to guide you into the brand of computat
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.kaggle.com/competitions/leash-BELKA/leaderboard?tab=public" target="_blank">
-        <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle2_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;"> </a>Public LB: Silver
-      
+           <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle2_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;"> Public LB: Silver
     </td>
   </tr>
 </table>
-
 
 <br>
 
@@ -180,4 +160,3 @@ Below are a sample of tools and programs to guide you into the brand of computat
 ---
 
 ### Copyright (c) P. Saisan, 2024
-
