@@ -5,7 +5,7 @@ MIT License Addendum:
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
-## About:
+## About Me:
 I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer and nuero-degeneration. My formal background is in applied math and theoretical machine learning, but my mission is in engaging cancer. 
 
 I seek problems that focus on precise translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer game changing breakthroughs. This is where I look for leaps toward a cure, at the intersection of scientific discovery and actionable intervention for patients.  
@@ -118,7 +118,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
       <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle1_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;">
          </a>
-        Private LB: Silver 
+        <span style="color: black; font-weight: bold;"> Private LB: Silver </span>
     </td>
   </tr>
 </table>
@@ -153,8 +153,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
         <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle_SC.PNG" width="75%">
       </a>
     </td>
-  </tr>NEWS
-
+  </tr>
   <tr>
     <td align="center">
    Kaggle is a Google Subsidiary
