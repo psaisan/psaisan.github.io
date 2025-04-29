@@ -104,6 +104,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
 
 
 ## 🚀 Kaggle AI Competitions in Biology With Interesting DATA: 
+
 <table width="100%" style="background-color: transparent; border-collapse: collapse;">
   <tr>
     <td align="center" style="background-color: white;">
@@ -114,12 +115,11 @@ Below are a sample of tools and programs to guide you into the brand of computat
   </tr>
   <tr>
     <td align="center" style="background-color: transparent;">
-      <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target="_blank" style="text-decoration: none;">
+      <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target="_blank" style="text-decoration: none; color: black;">
         <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle1_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;">
-        </a>
         <br>
         <span style="color: black; font-weight: bold;">Private LB: Silver</span>
-      
+      </a>
     </td>
   </tr>
 </table>
