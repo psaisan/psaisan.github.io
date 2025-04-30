@@ -118,7 +118,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
       <a href="https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle1_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;">
          </a>
-        <span style="color: black; font-weight: bold;"> Private LB: Silver </span>
+        Private LB: Silver
     </td>
   </tr>
 </table>
@@ -141,7 +141,8 @@ Below are a sample of tools and programs to guide you into the brand of computat
     <td align="center" style="background-color: transparent;">
         <a href="https://www.kaggle.com/competitions/leash-BELKA/leaderboard?tab=public" target="_blank" style="text-decoration: none;">
            <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/Kaggle2_Silver.png" width="50%" alt="Private LB: Silver" style="vertical-align: middle;">
-           </a> Public LB: Silver
+           </a> 
+      Public LB: Silver
     </td>
   </tr>
 </table>
