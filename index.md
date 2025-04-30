@@ -147,7 +147,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
 </table>
 
 
-<br>
+
 
 <table width="100%" style="background-color: transparent;">
   <tr>
