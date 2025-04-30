@@ -163,11 +163,6 @@ Below are a sample of tools and programs to guide you into the brand of computat
   </tr>        
 </table>
 
-
-
-
-
-
 ---
 
 ### Copyright (c) P. Saisan, 2024
