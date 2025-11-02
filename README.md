@@ -66,7 +66,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/test.gif" width="200"></td>
     <td>
     <strong>📊 Tumor Microenvironment and Immune Microdynamics</strong> *(In Development)*<br>
-    A mathematical platform for modeling the tumor microenvironment as a spatially coupled dynamical system to study TME evolution, treatment response, and immune-mediated control of tumor progression of TME evolution.
+    A mathematical platform for modeling the tumor microenvironment as a spatially coupled dynamical system to study TME evolution, treatment response, and immune-mediated control of solid tumors. 
     </td>
   </tr>
   <tr>
