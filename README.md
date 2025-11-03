@@ -63,9 +63,9 @@ Below are a sample of tools and programs to guide you into the brand of computat
 ## ⚙️ Mathematical Modeling & AI for Biological Systems  
 <table>
   <tr>
-    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/test.gif" width="200"></td>
+    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/test3.gif" width="200"></td>
     <td>
-    <strong>📊 Tumor Microenvironment and Immune Microdynamics</strong> *(In Development)*<br>
+    <strong>📊 Solid Tumor Microenvironment and Immunodynamic Modulation:</strong> *(In Development)*<br>
     A mathematical platform for modeling the tumor microenvironment as a spatially coupled dynamical system to study TME evolution, treatment response, and immune-mediated control of solid tumors. 
     </td>
   </tr>
