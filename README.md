@@ -6,16 +6,16 @@ MIT License Addendum:
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
 ## About Me:
-I work on machine learning (ML) and it's applications in computational biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer and nuero-degeneration. My formal background is in applied math and theoretical machine learning, but my mission is in engaging cancer. 
+I work on machine learning (ML) and it's applications in computational systems biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer and nuero-degeneration. My formal background is in applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems/Control)</a> and theoretical machine learning, and my mission is in engaging cancer. 
 
-I seek problems that focus on precise translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer game changing breakthroughs. This is where I look for leaps toward a cure, at the intersection of scientific discovery and actionable intervention for patients.  
+I seek problems at translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer game changing breakthroughs. This is where I look for leaps toward a cure, at the intersection of scientific discovery and actionable intervention for patients.  
 
-## Mathematical Immunology, Bridging AI & Biology: 
-I see the immune system as the key and most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent functional complexity and success of our immune system. I develop predictive and generative models at genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. Growing evidence suggests that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program our cells  or steer their states to modulate the immune system and/or the tumor microenvironments to stop solid tumor progressions? These are the questions that drive my work.
+## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
+I see the immune system as the most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent functional complexity and success of our immune system. I develop predictive and generative models at genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. Evidence suggests that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program our cells and modulate the immune system to control the solid tumor microenvironment? These are the questions that drive my work.
 
-On a more theoretical front, a current priority is uncovering the mathematical underpinnings of the Transformer models needed for their adaptation to genomic data. I am working toward modiying the Transformer formulations for building better predictive ML models in biology.
+On a more theoretical front, a current priority is uncovering the mathematical underpinnings of the Transformer models needed for their adaptation to genomic data; can we modify the Transformer architeture for building models more natural to biology?
 
-Cancer requires interdisciplinary team work. To that end, I work on creating accelerated pathways for mathematicians and engineers to transition into computational biology, while helping biologists gain formal computational fluencies, including strategic and guided proliferation of AI-assisted programming.
+Cancer is a cunning asymmetric adversary. Defeating it demands an equally asymmetric response: interdisciplinary collaboration. To that end, I work on creating accelerated pathways for mathematicians and engineers to transition into computational biology, while helping biologists gain formal computational fluencies, including strategic and guided proliferation of AI-assisted programming.
 
 ## Let's Collaborate:
 If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. 
@@ -62,13 +62,15 @@ Below are a sample of tools and programs to guide you into the brand of computat
 
 ## ⚙️ Mathematical Modeling & AI for Biological Systems  
 <table>
+  <!--
   <tr>
-    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/test3.gif" width="200"></td>
+    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/test0.gif" width="200"></td>
     <td>
-    <strong>📊 Solid Tumor Microenvironment and Immunodynamic Modulation:</strong> *(In Development)*<br>
+    <strong>📊Immunodynamic Intercellular Signaling of Xenocellular Networks and Solid Tumor Microenvironment Modulation:</strong> *(In Development)*<br>
+      PROJECT NEXUS is a systems-level platform for modeling and controlling intercellular dynamics within the solid tumor microenvironment. Leveraging agent-based simulation, feedback control theory, and biologically grounded state-space representations, NEXUS enables programmable modulation of xenocellular interactions — including immune cell infiltration, tumor expansion, and therapy response.
     A mathematical platform for modeling the tumor microenvironment as a spatially coupled dynamical system to study TME evolution, treatment response, and immune-mediated control of solid tumors. 
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/diagram3.PNG" width="200"></td>
     <td>
@@ -81,8 +83,8 @@ Below are a sample of tools and programs to guide you into the brand of computat
  <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
-      <strong>📊  TRANSFORMERS from a Mathematician's Lens: </strong>  <br>
-      COMING SOON!
+      <strong>📊  TRANSFORMERS from a Mathematician's Lens: The Ill-Posed Separation of Keys and Queries.</strong>  <br>
+      DETAILS COMING SOON!
     </td>
   </tr>
   
