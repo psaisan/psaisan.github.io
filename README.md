@@ -74,7 +74,7 @@ Below are a sample of tools and programs to guide you into the brand of computat
  <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
-      <strong>📊  TRANSFORMERS from a Mathematician's Lens: The Ill-Posed Separation of Keys and Queries.</strong>  <br>
+      <strong>📊  TRANSFORMERS from a Mathematician's Lens.</strong>  <br>
       DETAILS COMING SOON!
     </td>
   </tr>
