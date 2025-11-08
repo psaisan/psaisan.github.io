@@ -62,15 +62,6 @@ Below are a sample of tools and programs to guide you into the brand of computat
 
 ## ⚙️ Mathematical Modeling & AI for Biological Systems  
 <table>
-  <!--
-  <tr>
-    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/test0.gif" width="200"></td>
-    <td>
-    <strong>📊Immunodynamic Intercellular Signaling of Xenocellular Networks and Solid Tumor Microenvironment Modulation:</strong> *(In Development)*<br>
-      PROJECT NEXUS is a systems-level platform for modeling and controlling intercellular dynamics within the solid tumor microenvironment. Leveraging agent-based simulation, feedback control theory, and biologically grounded state-space representations, NEXUS enables programmable modulation of xenocellular interactions — including immune cell infiltration, tumor expansion, and therapy response.
-    A mathematical platform for modeling the tumor microenvironment as a spatially coupled dynamical system to study TME evolution, treatment response, and immune-mediated control of solid tumors. 
-    </td>
-  </tr> -->
   <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/diagram3.PNG" width="200"></td>
     <td>
