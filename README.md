@@ -61,16 +61,29 @@ Below are a sample of tools and programs to guide you into the brand of computat
 ---
 
 ## ⚙️ Mathematical Modeling & AI for Biological Systems  
+
 <table>
   <tr>
-    <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/diagram3.PNG" width="200"></td>
+    <td width="220">
+      <img src="https://raw.githubusercontent.com/psaisan/TRACE/main/Images/Trace1.png" width="200"> 
+    </td>
+    <td>
+      <br>
+<strong>🔥 TRACE in Computational Molecular Pathology</strong>: <i> Learning Efficiency of AI Translators under Conserved Information Ceilings.</i><br>
+TRACE helps analyze when and how molecular translators can improve biomarker prediction without adding deployment-time information.<br>
+🔗 <a href="https://github.com/psaisan/TRACE">GitHub Repository</a>
+      <br>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td width="220"> <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/diagram3.PNG" width="200"></td>
     <td>
       <strong>📊 Optimal Multi-Drug Dosage Control For Cellular Transitions</strong> *(Private Repo)*  
       <i>Optimal Control Theory for Cell State Space Transition and Trajectory Planning</i><br>
       Applies **control theory** to optimize biological state transitions and drug dosage planning.  
     </td>
   </tr>
-
  <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
