@@ -6,15 +6,15 @@ MIT License Addendum:
 
 ## About Me:
 
-While my formal background is in applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems/Control and Statistical Learning)</a>, I work at the intersection of computational biology, machine learning, and control theory with a singular focus: cure for cancer and neurodegeneration.
+My formal background is in applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems, Control and Statistical Learning)</a>, but my current mission is singular: cancer and neurodegeneration. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
 
-I seek problems at translational inflection points, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions. I look for leaps toward a cure at the intersection of scientific discovery and actionable intervention for patients.
+I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions.
 
-Assymetric leverage: The grand theory gives the compass, but the immediate mission is reconnaissance and leverage moving across math, AI, biology, and clinical need; identify cancer's vulnerabilities and the field's bottlenecks; then build focused tools that change what we are able to see and act on now.
+Assymetric leverage: The grand theory gives the compass, but the immediate mission is reconnaissance and leverage moving across mathematics, AI, biology, and clinical need; identify cancer's vulnerabilities and the field's bottlenecks; pose them as theoretical and computational problems and build focused tools that change what we are able to see and act on now.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
-The immune system is one of nature’s most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of a unified immune function.
+The immune system is one of nature’s most sophisticated adaptive control systems,  possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of a unified immune function.
 
 Evidence increasingly suggests that some of our deepest leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so the immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help reprogramming possible.
 
@@ -83,14 +83,17 @@ TRACE helps analyze when and how molecular translators can improve biomarker pre
     <td>
       <strong>📊 Optimal Multi-Drug Dosage Control For Cellular Transitions</strong> *(Private Repo)*  
       <i>Optimal Control Theory for Cell State Space Transition and Trajectory Planning</i><br>
-      Applies **control theory** to optimize biological state transitions and drug dosage planning.  
+      Applies *control theory* to optimize biological state transitions and drug dosage planning.  
     </td>
   </tr>
  <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
       <strong>📊  TRANSFORMERS from a Mathematician's Lens.</strong>  <br>
-      DETAILS COMING SOON!
+      DETAILS COMING SOON! Computer vision did not become text; it forced
+Transformers to adapt to locality, scale, and geometry. Genomics can do the same:
+biology is compositional, but not linguistically so — its grammar is physical,
+regulatory, and causal.
     </td>
   </tr>
   
