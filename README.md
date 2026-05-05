@@ -10,7 +10,7 @@ My formal background is in applied math <a href="https://www.genealogy.math.ndsu
 
 I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions.
 
-Assymetric leverage: The grand theory gives the compass, but the immediate mission is reconnaissance and leverage moving across mathematics, AI, biology, and clinical need; identify cancer's vulnerabilities and the field's bottlenecks; pose them as theoretical and computational problems and build focused tools that change what we are able to see and act on now.
+Assymetric leverage: analytical theory gives the compass, but the immediate mission is reconnaissance and leverage moving across disciplines to identify cancer's vulnerabilities and the field's bottlenecks; pose them as theoretical and computational problems and build focused tools that change what we are able to see and act on now.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
