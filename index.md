@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="uiWFp7udCSHntbz_Ukiy8exeVtdXqKQ8wJtAOYO6kUc" />
+
 MIT License Addendum:
 
 (c) To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
