@@ -6,28 +6,23 @@ MIT License Addendum:
 
 ## About Me:
 
-My formal background is in applied math and engineering <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425"> (Interplay of ML with Dynamical Systems/Control)</a> - I work at the intersection of computational and systems biology,  machine learning and control theory with a singular focus: adapting emerging advances to cancer and neurodegeneration.
+While my formal background is in applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems/Control and Statistical Learning)</a>, I work at the intersection of computational biology, machine learning, and control theory with a singular focus: cure for cancer and neurodegeneration.
 
-I seek problems at translational inflection points, where fundamental biological insights and data can be analytically harnessed to engineer game changing breakthroughs. This is where I look for leaps toward a cure, at the intersection of scientific discovery and actionable intervention for patients.  
+I seek problems at translational inflection points, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions. I look for leaps toward a cure at the intersection of scientific discovery and actionable intervention for patients.
 
-I think of this as asymmetric precision medicine. The grand theory gives the compass, but the immediate mission is reconnaissance and leverage: move across mathematics, AI, biology, and clinical need; identify cancer’s vulnerabilities and the field’s bottlenecks; then build focused tools that change what researchers are able to see, test, or decide now.
+Assymetric leverage: The grand theory gives the compass, but the immediate mission is reconnaissance and leverage moving across math, AI, biology, and clinical need; identify cancer's vulnerabilities and the field's bottlenecks; then build focused tools that change what we are able to see and act on now.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
-Biology is where the dynamics live; medicine is where we learn to engage and control the outcome. I view the immune system as one of biology's most sophisticated adaptive defense-and-control systems, and one of the most promising frontiers in the battle against cancer. It is a distributed network of programmable molecular agents evolved for adversarial engagement: each immune cell is a programmable molecular dynamical system, and collectively these cells give rise to the emergent complexity, adaptability, and resilience of immune function.
+The immune system is one of nature’s most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of a unified immune function.
 
-Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating cancer demands an equally asymmetric response, at the frontier of biology, AI, and control theory - first to understand where the immune system stands, expose cancer's vulnerabilities, and regain control of the tumor microenvironment. That is where I operate.
+Evidence increasingly suggests that some of our deepest leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so the immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help reprogramming possible.
 
-Evidence increasingly suggests that some of the deepest leverage against cancer lies within the regulatory programs of our own cells: how they can be reprogrammed, and how immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales, aiming to decipher the language that governs this system and ultimately re-program it.
+Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response  at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and it's vulnerabilities, to understand how immune system can re-programmed to change the tide in tumor microenvironments. 
 
-On the theoretical front, a current priority is uncovering the mathematical foundations of Transformer models needed for their adaptation to genomic data, not simply applying existing architectures, but reshaping them into forms more natural to biological dynamics, regulation, and control.
+## Let's Collaborate
 
-My work moves between theory, tools, and applications. The theory provides the compass. The tools create leverage. The applications keep the work accountable to patients.
-
-## Let's Collaborate:
-If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. 
-
-Below are a sample of tools and programs to guide you into the brand of computational biology problems I'm working on. Completed tools on GitHub are free to use under academic licensing, in any way you can,  to make progress in your work. May the force be with you!
+If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. Below are selected tools and programs reflecting the computational biology problems I work on. Completed tools on GitHub are free to use under their respective licenses for research and academic progress. May the force be with you.
 
 ---
 
