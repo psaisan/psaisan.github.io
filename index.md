@@ -7,7 +7,7 @@ MIT License Addendum:
 
 ## About Me:
 
-My formal background is in applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems, Control and Statistical Learning)</a>, but my current mission is singular: cancer and neurodegeneration. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
+My formal background is in engineering and applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems, Control and Statistical Learning)</a>, but my current mission is singular: cancer and neurodegeneration. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
 
 I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions.
 
