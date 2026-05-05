@@ -1,5 +1,4 @@
 <meta name="google-site-verification" content="uiWFp7udCSHntbz_Ukiy8exeVtdXqKQ8wJtAOYO6kUc" />
-
 MIT License Addendum:
 
 (c) To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
@@ -12,15 +11,15 @@ My formal background is in applied math <a href="https://www.genealogy.math.ndsu
 
 I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions.
 
-Assymetric leverage: The grand theory gives the compass, but the immediate mission is reconnaissance and leverage moving across mathematics, AI, biology, and clinical need; identify cancer's vulnerabilities and the field's bottlenecks; pose them as theoretical and computational problems and build focused tools that change what we are able to see and act on now.
+Assymetric leverage: analytical theory gives the compass, but the immediate mission is reconnaissance and leverage moving across disciplines to identify cancer's vulnerabilities and the field's bottlenecks; pose them as theoretical and computational problems and build focused tools that change what we are able to see and act on now.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
-The immune system is one of nature’s most sophisticated adaptive control systems,  possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of a unified immune function.
+The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
-Evidence increasingly suggests that some of our deepest leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so the immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help reprogramming possible.
+Evidence increasingly suggests that some of our deepest leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so that immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help make its reprogramming possible.
 
-Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response  at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and it's vulnerabilities, to understand how immune system can re-programmed to change the tide in tumor microenvironments. 
+Cancer is a devastating and cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and its vulnerabilities, to understand how the immune system can be reprogrammed to change the tide in tumor microenvironments.
 
 ## Let's Collaborate
 
@@ -92,10 +91,10 @@ TRACE helps analyze when and how molecular translators can improve biomarker pre
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
       <strong>📊  TRANSFORMERS from a Mathematician's Lens.</strong>  <br>
-      DETAILS COMING SOON! Computer vision did not become text; it forced
-Transformers to adapt to locality, scale, and geometry. Genomics can do the same:
-biology is compositional, but not linguistically so — its grammar is physical,
-regulatory, and causal.
+      Computer vision did not become text; it forced
+Transformers to adapt to locality, scale, and geometry. Genomics can do the same.
+Biology is compositional, but not linguistically so: its grammar is physical,
+regulatory, and causal.  DETAILS COMING SOON!
     </td>
   </tr>
   
@@ -183,3 +182,4 @@ regulatory, and causal.
 ---
 
 ### Copyright (c) P. Saisan, 2024
+
