@@ -2,25 +2,27 @@ MIT License Addendum:
 
 (c) To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
 
-
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
 ## About Me:
-I work on machine learning (ML) and it's applications in computational systems biology and bioengineering, with a singular focus: adapting emerging AI advances to precision medicine in cancer and nuero-degeneration. My formal background is in applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems/Control)</a> and theoretical machine learning, and my mission is in engaging cancer. 
 
-I seek problems at translational inflection points, where fundamental biological insights and data can be computationally harnessed to engineer game changing breakthroughs. This is where I look for leaps toward a cure, at the intersection of scientific discovery and actionable intervention for patients.  
+My formal background is in applied math <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">(Dynamical Systems, Control and Statistical Learning)</a>, but my current mission is singular: cancer and neurodegeneration. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
+
+I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions.
+
+Assymetric leverage: The grand theory gives the compass, but the immediate mission is reconnaissance and leverage moving across mathematics, AI, biology, and clinical need; identify cancer's vulnerabilities and the field's bottlenecks; pose them as theoretical and computational problems and build focused tools that change what we are able to see and act on now.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
-I see the immune system as the most promising frontier in medicine and battle against cancer. Each immune cell is a programmable molecular dynamical system, that working collectively give rise to the emergent functional complexity and success of our immune system. I develop predictive and generative models at genomic, cellular and system levels, aiming to decipher the genomic programming language that governs this system. Evidence suggests that the key to solving cancer lies within the regulatory programs of our cells. Can we re-program our cells and modulate the immune system to control the solid tumor microenvironment? These are the questions that drive my work.
 
-On a more theoretical front, a current priority is uncovering the mathematical underpinnings of the Transformer models needed for their adaptation to genomic data; can we modify the Transformer architeture for building models more natural to biology?
+The immune system is one of nature’s most sophisticated adaptive control systems,  possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of a unified immune function.
 
-Cancer is a cunning asymmetric adversary. Defeating it demands an equally asymmetric response: interdisciplinary collaboration. To that end, I work on creating accelerated pathways for mathematicians and engineers to transition into computational biology, while helping biologists gain formal computational fluencies, including strategic and guided proliferation of AI-assisted programming.
+Evidence increasingly suggests that some of our deepest leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so the immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help reprogramming possible.
 
-## Let's Collaborate:
-If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. 
+Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response  at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and it's vulnerabilities, to understand how immune system can re-programmed to change the tide in tumor microenvironments. 
 
-Below are a sample of tools and programs to guide you into the brand of computational biology problems I'm working on. Completed tools on GitHub are free to use under academic licensing, in any way you can,  to make progress in your work. May the force be with you!
+## Let's Collaborate
+
+If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. Below are selected tools and programs reflecting the computational biology problems I work on. Completed tools on GitHub are free to use under their respective licenses for research and academic progress. May the force be with you.
 
 ---
 
@@ -81,14 +83,17 @@ TRACE helps analyze when and how molecular translators can improve biomarker pre
     <td>
       <strong>📊 Optimal Multi-Drug Dosage Control For Cellular Transitions</strong> *(Private Repo)*  
       <i>Optimal Control Theory for Cell State Space Transition and Trajectory Planning</i><br>
-      Applies **control theory** to optimize biological state transitions and drug dosage planning.  
+      Applies *control theory* to optimize biological state transitions and drug dosage planning.  
     </td>
   </tr>
  <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
       <strong>📊  TRANSFORMERS from a Mathematician's Lens.</strong>  <br>
-      DETAILS COMING SOON!
+      DETAILS COMING SOON! Computer vision did not become text; it forced
+Transformers to adapt to locality, scale, and geometry. Genomics can do the same:
+biology is compositional, but not linguistically so — its grammar is physical,
+regulatory, and causal.
     </td>
   </tr>
   
