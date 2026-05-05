@@ -14,11 +14,11 @@ Assymetric leverage: The grand theory gives the compass, but the immediate missi
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
-The immune system is one of nature’s most sophisticated adaptive control systems,  possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of a unified immune function.
+The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
-Evidence increasingly suggests that some of our deepest leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so the immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help reprogramming possible.
+Evidence increasingly suggests that some of our deepest leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so that immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help make its reprogramming possible.
 
-Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response  at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and it's vulnerabilities, to understand how immune system can re-programmed to change the tide in tumor microenvironments. 
+Cancer is a devastating and cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and its vulnerabilities, to understand how the immune system can be reprogrammed to change the tide in tumor microenvironments.
 
 ## Let's Collaborate
 
