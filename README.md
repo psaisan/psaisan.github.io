@@ -90,10 +90,10 @@ TRACE helps analyze when and how molecular translators can improve biomarker pre
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
       <strong>📊  TRANSFORMERS from a Mathematician's Lens.</strong>  <br>
-      DETAILS COMING SOON! Computer vision did not become text; it forced
-Transformers to adapt to locality, scale, and geometry. Genomics can do the same:
-biology is compositional, but not linguistically so — its grammar is physical,
-regulatory, and causal.
+      Computer vision did not become text; it forced
+Transformers to adapt to locality, scale, and geometry. Genomics can do the same.
+Biology is compositional, but not linguistically so: its grammar is physical,
+regulatory, and causal.  DETAILS COMING SOON!
     </td>
   </tr>
   
