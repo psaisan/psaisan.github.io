@@ -1,4 +1,4 @@
-# Dedication:
+# Dedication
 
 To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
 
@@ -6,13 +6,17 @@ To all the cancer patients, their courage and love that fuel this work and count
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
-## About Me:
+## About Me
 
 My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425"> Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration research. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
 
 I hunt for a rare class of problems, translational inflection points at the intersection of scientific discovery and actionable intervention for patients. This is where fundamental biological insight and data can be analytically harnessed to engineer therapeutic solutions.
 
-## Mathematical Immunology: Bridging AI, Control Theory, & Biology: 
+## Mathematical Immunology: Bridging AI, Control Theory, & Biology
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG" alt="Banner">
+</div>
 
 The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
@@ -27,10 +31,6 @@ I create AI and control-theoretic tools for precision medicine: from regulatory 
 If you're working directly or indirectly on cancer research, feel free to reach out, I reserve time to volunteer and support cancer researchers. Below are a select set of tools reflecting the problems I am working on. Completed tools on GitHub are free to use under their respective licenses. May the force be with you.
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG" alt="Banner" width="800">
-</div>
 
 
 ## 📌 Genomics & Gene Regulation  
