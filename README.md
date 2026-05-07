@@ -12,7 +12,7 @@ My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id
 
 I hunt for a rare class of problems, translational inflection points at the intersection of scientific discovery and actionable intervention for patients. This is where fundamental biological insight and data can be analytically harnessed to engineer therapeutic solutions.
 
-## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
+## Mathematical Immunology: Bridging AI, Control Theory, & Biology: 
 
 The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
