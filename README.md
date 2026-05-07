@@ -1,4 +1,4 @@
-# Dedication
+# Dedication:
 
 To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
 
@@ -10,7 +10,9 @@ To all the cancer patients, their courage and love that fuel this work and count
 
 My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425"> Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration research. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
 
-I hunt for a rare class of problems at the intersection of scientific discovery and actionable intervention for patients — translational inflection points where fundamental biological insight and data can be analytically harnessed to engineer therapeutic solutions.
+I look for translational inflection points: rare problems where fundamental biological insight, data, and mathematical structure can be harnessed to create actionable therapeutic strategies.
+
+I hunt for a rare class of problems, translational inflection points at the intersection of scientific discovery and actionable intervention for patients. This is where fundamental biological insight and data can be analytically harnessed to engineer therapeutic solutions.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
@@ -20,7 +22,7 @@ Evidence increasingly suggests that our best leverage against diseases like canc
 
 Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and its vulnerabilities, to understand how the immune system can be reprogrammed to change the tide in tumor microenvironments.
 
-I create AI and control-theoretic tools for precision medicine: from regulatory genomics and single-cell/spatial omics to molecular translators in computational pathology and biological state-space control. The mission is to expose cancer's vulnerabilities and create computational instruments to observe, test, and intervene faste.
+I create AI and control-theoretic tools for precision medicine: from regulatory genomics and single-cell/spatial omics to molecular translators in computational pathology and biological state-space control. The mission is to expose cancer's vulnerabilities and create computational instruments to observe, test, and intervene faster.
 
 ## Let's Collaborate
 
