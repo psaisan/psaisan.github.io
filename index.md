@@ -14,9 +14,7 @@ I hunt for a rare class of problems, translational inflection points at the inte
 
 ## Mathematical Immunology: Bridging AI, Control Theory, & Biology
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG" alt="Banner">
-</div>
+[![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG)](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan2.PNG)
 
 The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
