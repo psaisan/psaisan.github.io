@@ -20,7 +20,7 @@ Evidence increasingly suggests that our best leverage against diseases like canc
 
 Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and its vulnerabilities, to understand how the immune system can be reprogrammed to change the tide in tumor microenvironments.
 
-I create AI and control-theoretic tools for precision medicine: from regulatory genomics and single-cell/spatial omics to molecular translators in computational pathology and biological state-space control. The mission is to expose cancer's vulnerabilities and create computational instruments to observe, test, and intervene faster.
+I create AI and control-theoretic tools for precision medicine: from regulatory genomics and single-cell/spatial omics to molecular translators in computational pathology and biological state-space control. The mission is to expose cancer's vulnerabilities and create computational instruments to observe, test, and intervene faster, to save lives.
 
 ## Let's Collaborate
 
