@@ -1,14 +1,16 @@
-MIT License Addendum:
+# Dedication
 
-(c) To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
+To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
+
+> This page and the work behind it have one purpose: to help save lives.
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
 ## About Me:
 
-My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425"> Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration research. I now work at the intersection of computational biology, machine learning, and control theory toward cures. 
+My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425"> Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration research. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
 
-I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions.
+I hunt for a rare class of problems at the intersection of scientific discovery and actionable intervention for patients — translational inflection points where fundamental biological insight and data can be analytically harnessed to engineer therapeutic solutions.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
@@ -22,7 +24,7 @@ I create AI and control-theoretic tools for precision medicine: from regulatory 
 
 ## Let's Collaborate
 
-If you're working directly or indirectly on cancer research, feel free to reach out. I reserve time to volunteer and support cancer researchers. Below are selected tools and programs reflecting the computational biology problems I work on. Completed tools on GitHub are free to use under their respective licenses for research and academic progress. May the force be with you.
+If you're working directly or indirectly on cancer research, feel free to reach out, I reserve time to volunteer and support cancer researchers. Below are a select set of tools reflecting the problems I am working on. Completed tools on GitHub are free to use under their respective licenses. May the force be with you.
 
 ---
 
@@ -65,8 +67,6 @@ If you're working directly or indirectly on cancer research, feel free to reach 
 
 ---
 
-
-
 ## ⚙️ Mathematical Modeling & AI for Biological Systems  
 
 <table>
@@ -88,14 +88,14 @@ TRACE helps analyze when and how molecular translators can improve biomarker pre
     <td>
       <strong>📊 Optimal Multi-Drug Dosage Control For Cellular Transitions</strong> *(Private Repo)*  
       <i>Optimal Control Theory for Cell State Space Transition and Trajectory Planning</i><br>
-      Applies *control theory* to optimize biological state transitions and drug dosage planning.  
+      Optimal control models to optimize biological state transitions and drug dosage planning. Manuscript-stage; not yet publicly released.
     </td>
   </tr>
  <tr>
     <td width="220"><img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/genome_ai.png" width="200"></td>
     <td>
       <strong>📊  TRANSFORMERS from a Mathematician's Lens.</strong>  <br>
-      DETAILS COMING SOON!
+      A mathematical perspective on attention and re-formalization of query-key-value parameterization. Manuscript-stage; not yet publicly released.
     </td>
   </tr>
   
