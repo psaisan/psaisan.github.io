@@ -6,9 +6,9 @@ MIT License Addendum:
 
 ## About Me:
 
-My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425"> Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration research. I work at the intersection of computational biology, machine learning, and control theory toward cures. 
+My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425"> Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration research. I now work at the intersection of computational biology, machine learning, and control theory toward cures. 
 
-I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions, now.
+I seek problems at translational inflection points, the intersection of scientific discovery and actionable intervention for patients, where fundamental biological insights and data can be analytically harnessed to engineer therapeutic solutions.
 
 ## Mathematical Immunology; Bridging AI, Control Theory, & Biology: 
 
@@ -18,8 +18,7 @@ Evidence increasingly suggests that our best leverage against diseases like canc
 
 Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an equally clever asymmetric response at the frontier of biology, AI, control theory, and medicine: to build mechanistic and generative models of the immune system along with cancer and its vulnerabilities, to understand how the immune system can be reprogrammed to change the tide in tumor microenvironments.
 
-I create AI and control-theoretic tools for precision medicine: from regulatory genomics and single-cell/spatial omics to molecular translators in computational pathnology and biological state-space control. The mission is to expose cancer's vulnerabilities and create computational instruments to observe, test, and intervene faster. A parallel priority beneath the urgent applied work is an evolving longer term theoretical thread: biology-native AI. Biology is compositional, but its compositionality is not linguistic — it is physical, regulatory, and causal. The goal is AI whose representational space and operations are grounded in the geometry, energetics, and causal logic of molecular compositionality and not in the purely symbolic statistical structure of human language.
-
+I create AI and control-theoretic tools for precision medicine: from regulatory genomics and single-cell/spatial omics to molecular translators in computational pathology and biological state-space control. The mission is to expose cancer's vulnerabilities and create computational instruments to observe, test, and intervene faster, to save lives.
 
 ## Let's Collaborate
 
