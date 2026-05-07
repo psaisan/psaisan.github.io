@@ -1,8 +1,6 @@
 # Dedication
 
-To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
-
-> This page and the work behind it have one purpose: to help save lives.
+To all the cancer patients, to their courage and love that fuel this work, and to the countless others fighting to defeat cancer.
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
