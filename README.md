@@ -26,6 +26,9 @@ If you're working directly or indirectly on cancer research, feel free to reach 
 
 ---
 
+<img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG" alt="Banner" width="800">
+
+---
 
 ## 📌 Genomics & Gene Regulation  
 
@@ -61,6 +64,8 @@ If you're working directly or indirectly on cancer research, feel free to reach 
 </table>
 
 ---
+
+
 
 ## ⚙️ Mathematical Modeling & AI for Biological Systems  
 
