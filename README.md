@@ -1,8 +1,6 @@
 # Dedication
 
-To all the cancer patients, their courage and love that fuel this work and countless others fighting to defeat cancer.
-
-> This page and the work behind it have one purpose: to help save lives.
+To all the cancer patients, to their courage and love that fuel this work, and to the countless others fighting to defeat cancer.
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
@@ -14,9 +12,7 @@ I hunt for a rare class of problems, translational inflection points at the inte
 
 ## Mathematical Immunology: Bridging AI, Control Theory, & Biology
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG" alt="Banner">
-</div>
+[![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG)](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan2.PNG)
 
 The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
