@@ -14,6 +14,10 @@ I hunt for a rare class of problems, translational inflection points at the inte
 
 ## Mathematical Immunology: Bridging AI, Control Theory, & Biology
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG" alt="Banner">
+</div>
+
 The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
 Evidence increasingly suggests that our best leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so that immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help make its reprogramming possible.
@@ -27,10 +31,6 @@ I create AI and control-theoretic tools for precision medicine: from regulatory 
 If you're working directly or indirectly on cancer research, feel free to reach out, I reserve time to volunteer and support cancer researchers. Below are a select set of tools reflecting the problems I am working on. Completed tools on GitHub are free to use under their respective licenses. May the force be with you.
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG" alt="Banner" width="800">
-</div>
 
 
 ## 📌 Genomics & Gene Regulation  
