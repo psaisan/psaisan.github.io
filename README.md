@@ -1,4 +1,4 @@
-# Dedication
+## Dedication
 
 To all the cancer patients, to their courage and love that fuel this work, and to the countless others fighting to defeat cancer.
 
@@ -14,7 +14,7 @@ I hunt for a rare class of problems — translational inflection points at the i
 
 [![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG)](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan2.PNG)
 
-The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a programmable molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
+The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
 
 Evidence increasingly suggests that our best leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so that immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help make its reprogramming possible.
 
