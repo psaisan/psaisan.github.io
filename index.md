@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="s1R9S8SeZvTVoaN8hOMUoXHr9cKuup5ONhhDhsFz8lQ" />
 ## Dedication
 
 To all the cancer patients, to their courage and love that fuel this work, and to the countless others fighting to defeat cancer.
