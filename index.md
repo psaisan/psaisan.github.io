@@ -1,6 +1,4 @@
-## Dedication
-
-To all the cancer patients, to their courage and love that fuel this work, and to the countless others fighting to defeat cancer.
+## To all the cancer patients whose courage and love fuels this work, and to all who fight beside them
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
