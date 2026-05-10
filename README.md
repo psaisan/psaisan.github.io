@@ -1,5 +1,5 @@
 
-## To all the cancer patients whose courage and love fuels this work, and to all who fight beside them
+To cancer patients — whose courage and love fuel this work — and to all who fight alongside them.
 
 ![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/ovarian.png)
 
@@ -7,13 +7,13 @@
 
 My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration. I work at the intersection of computational biology, machine learning, and control theory toward cures.
 
-I hunt for a rare class of problems — translational inflection points at the intersection of scientific discovery and actionable intervention for patients. This is where fundamental biological insight and data can be analytically harnessed to help engineer therapeutic solutions to otherwise devastating trajectories.
+I hunt for a rare class of problems: translational inflection points where sharp mathematical and computational tools, aimed at the right biological vulnerability, can carve a direct path through the barrier between basic research and patient impact. This is where we can analytically harness biological insight and clinical data to engineer therapeutic solutions toward altering devastating disease trajectories.
 
 ## Mathematical Immunology: Bridging AI, Control Theory, & Biology
 
 [![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG)](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan2.PNG)
 
-The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a molecular dynamical system, collectively giving rise to the astonishing emergent complexity and success of unified immune function.
+The immune system is one of nature's most sophisticated adaptive control systems, and possibly the most promising frontier in the battle against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a molecular dynamical system, collectively giving rise to the emergent complexity and success of unified immune function.
 
 Evidence increasingly suggests that our best leverage against diseases like cancer may lie within the regulatory programs of our own cells, immune cells in particular: how they can be reprogrammed so that immune dynamics can be modulated toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, to help make its reprogramming possible.
 
@@ -21,9 +21,9 @@ Cancer is a cunning asymmetric adversary. It adapts and evades this ultimate def
 
 I create AI and control-theoretic tools for precision medicine: from regulatory genomics and single-cell/spatial omics to molecular translators in computational pathology and biological state-space control. The mission is to expose cancer's vulnerabilities and create computational instruments to observe, test, and intervene faster, to save lives.
 
-## Let's Collaborate
+## Collaboration
 
-If you're working directly or indirectly on cancer research, feel free to reach out, I reserve time to volunteer and support cancer researchers. Below are a select set of tools reflecting the problems I am working on. Completed tools on GitHub are free to use under their respective licenses. May the force be with you.
+If you're working on cancer research, directly or indirectly, feel free to reach out. I reserve time to volunteer and support cancer researchers. Below is a selected set of open-source tools on GitHub reflecting the problems I work on.
 
 ---
 
