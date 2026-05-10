@@ -7,7 +7,7 @@ To cancer patients — whose courage and love fuel this work — and to all who 
 
 My formal background is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">Dynamical Systems, Control and Statistical Learning</a>, but my current focus is cancer and neurodegeneration. I work at the intersection of computational biology, machine learning, and control theory toward cures.
 
-I hunt for a rare class of problems: translational inflection points where sharp mathematical and computational tools can carve a direct path through the barrier between basic research and patient impact. This is where we can analytically harness biological insight and clinical data to engineer therapeutic solutions toward altering devastating disease trajectories.
+I hunt for a rare class of problems: translational inflection points where sharp mathematical and computational tools can carve a  path through the barrier between basic research and direct patient impact. This is where we can analytically harness biological insight and clinical data to engineer therapeutic solutions toward altering devastating disease trajectories.
 
 ## Mathematical Immunology: Bridging AI, Control Theory, & Biology
 
