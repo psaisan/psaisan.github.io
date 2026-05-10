@@ -53,7 +53,7 @@ If you're working on cancer research, directly or indirectly, feel free to reach
     <td>
       <strong>🔥 PIPSCOUT </strong>  
        <i>PIPseeker-based Single-Cell Output & UMAP Typing </i><br>
-      A tool for deciphering <a href="https://pipseeker.readthedocs.io"> PIPseeker's</a> single-cell outputs for downstream analytical pipelines. <br>
+      A tool for deciphering <a href="https://www.fluentbio.com/products/pipseeker-software-for-data-analysis/"> PIPseeker's</a> single-cell outputs for downstream analytical pipelines. <br>
       🔗 <a href="https://github.com/psaisan/PIPSCOUT">GitHub Repository</a>
     </td>
   </tr>
