@@ -14,8 +14,10 @@ I look for a particular class of problems: translational inflection points, wher
 
 [![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG)](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan2.PNG)
 
-The immune system is one of nature's most sophisticated adaptive control systems, and perhaps the most promising frontier in the fight against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a molecular dynamical system in its own right, and the collective is itself a dynamical system of far greater complexity, whose emergent behavior is unified immune function.
-Evidence increasingly suggests that our greatest leverage against diseases like cancer lies within the regulatory programs of our own cells — immune cells above all — and in how those programs can be rewritten so that immune dynamics can be steered toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, and to help make its reprogramming possible.
+The immune system is one of nature's most sophisticated adaptive control systems, and perhaps the most promising frontier in the fight against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a molecular dynamical system in its own right, and from their coupling arises an emergent system of far greater complexity, and with it, a unified immune function.
+
+
+Evidence increasingly suggests that our greatest leverage against diseases like cancer lies within the regulatory programs of our own cells, immune cells above all, and in how those programs can be rewritten so that immune dynamics can be steered toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, and to help make its reprogramming possible.
 
 Cancer is a cunning, asymmetric adversary. It adapts, and it evades this ultimate defensive barrier from within. Defeating it demands an asymmetric response of equal cunning, mounted at the frontier of biology, AI, control theory, and medicine: mechanistic and generative models of the immune system, and of cancer and its vulnerabilities, models that reveal how immune cells can be reprogrammed to turn the tide within the tumor microenvironment.
 
