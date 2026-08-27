@@ -6,7 +6,7 @@ To cancer patients — whose courage and love fuel this work — and to all who 
 
 ## About Me
 
-My formal training is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">Dynamical Systems, Control and Statistical Learning</a>. My focus today is on cancer and neurodegeneration. I work at the intersection of computational biology, machine learning, and control theory, in pursuit of cures.
+My formal training is in <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=162425">Dynamical Systems, Control and Statistical Learning</a>. My current focus is on cancer where I work at the intersection of computational biology, machine learning, and control theory, in pursuit of cures.
 
 I look for a particular class of problems: translational inflection points, where sharp mathematical and computational tools can carve a path through the barrier that separates basic research from direct patient impact. This is where biological insight and clinical data can be harnessed to engineer therapies that alter the trajectory of disease.
 
@@ -14,19 +14,18 @@ I look for a particular class of problems: translational inflection points, wher
 
 [![Banner](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan.PNG)](https://raw.githubusercontent.com/psaisan/MCAT/main/Images/map_psaisan2.PNG)
 
-The immune system is one of nature's most sophisticated adaptive control systems, and perhaps the most promising frontier in the fight against cancer. It is a network of programmable molecular agents evolved for distributed adversarial engagement: each immune cell is a molecular dynamical system in its own right, and from their coupling arises an emergent system of far greater complexity, and with it, a unified immune function.
+The immune system is one of nature's most sophisticated adaptive control systems, and perhaps the most promising frontier in the fight against cancer. It is a network of programmable agents evolved for distributed adversarial engagement: each immune cell is a molecular dynamical system in its own right, and from their collective coupling logic arises an emergent system, a unified immune function of astonishing defensive complexity and success.
 
+Evidence increasingly suggests that our greatest leverage against diseases like cancer lies within the regulatory programs of our own cells, immune cells above all, and in how those programs can be rewritten so that immune dynamics can be steered toward therapeutic control. That leverage is not confined to cancer: much of the inherited risk of neurodegeneration maps to the regulatory programs of the brain's own immune cells, the microglia. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, and to help make its reprogramming possible.
 
-Evidence increasingly suggests that our greatest leverage against diseases like cancer lies within the regulatory programs of our own cells, immune cells above all, and in how those programs can be rewritten so that immune dynamics can be steered toward therapeutic control. I develop predictive and generative models across genomic, cellular, and systems scales to decipher the programming language that governs this system, and to help make its reprogramming possible.
-
-Cancer is a cunning, asymmetric adversary. It adapts, and it evades this ultimate defensive barrier from within. Defeating it demands an asymmetric response of equal cunning, mounted at the frontier of biology, AI, control theory, and medicine: mechanistic and generative models of the immune system, and of cancer and its vulnerabilities, models that reveal how immune cells can be reprogrammed to turn the tide within the tumor microenvironment.
+Cancer is a cunning, asymmetric adversary. It adapts and evades this ultimate defensive barrier from within. Defeating it demands an asymmetric response of equal cunning, mounted at the frontier of biology, AI, control theory, and medicine: mechanistic and generative models of the immune system, and of cancer and its vulnerabilities — models that reveal how immune cells can be reprogrammed to turn the tide within the tumor microenvironment.
 
 I create AI and control-theoretic tools for precision medicine, spanning regulatory genomics, single-cell and spatial omics, molecular translators for computational pathology, and biological state-space control. The mission is to expose cancer's vulnerabilities and to build computational instruments that let us observe, test, and intervene faster, to save lives.
 
 
 ## Collaboration
 
-I reserve time to volunteer and support cancer researchers. Below is a selected set of open-source tools on GitHub reflecting the problems I work on.
+I reserve time to volunteer to support cancer patients and researchers. Below is a selected set of open-source tools on GitHub reflecting the problems I work on.
 
 ---
 
